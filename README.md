@@ -11,21 +11,21 @@
 
 </div>
 
-☁️ An * Cloud & DevOps Engineer* with hands-on internship experience designing and automating scalable AWS infrastructure.
-🔭 Currently interning as a *DevOps Engineer at Hisan Labs Private Limited*, building production-grade solutions with Terraform, Docker, Kubernetes (EKS), Jenkins, and CI/CD pipelines.
+☁️ An Cloud & DevOps Engineer with hands-on internship experience designing and automating scalable AWS infrastructure.
+🔭 Currently interning as a DevOps Engineer at Hisan Labs Private Limited, building production-grade solutions with Terraform, Docker, Kubernetes (EKS), Jenkins, and CI/CD pipelines.
 
 ### 🚀 What Defines Me as a DevOps Engineer
-- ✔️ Skilled in *provisioning and managing AWS infrastructure* (EC2, VPC, IAM, S3, RDS, Route 53, ALB, Auto Scaling, CloudWatch) using Terraform.
-- ✔️ Experience *designing secure cloud networking* — public/private subnets, Internet & NAT Gateways, route tables, and security groups.
-- ✔️ Hands-on with *containerization and orchestration* using Docker, Kubernetes, and Amazon EKS.
-- ✔️ Comfortable building *CI/CD pipelines* with Jenkins and GitHub, including build automation, deployment validation, and static code analysis with SonarQube.
-- ✔️ Practiced in *monitoring and observability* using AWS CloudWatch, Datadog, Prometheus, and Grafana.
-- ✔️ Effective at *troubleshooting deployments* via Jenkins console output, Linux log analysis, and `kubectl logs` / `kubectl describe`.
+- ✔️ Skilled in provisioning and managing AWS infrastructure (EC2, VPC, IAM, S3, RDS, Route 53, ALB, Auto Scaling, CloudWatch) using Terraform.
+- ✔️ Experience designing secure cloud networking — public/private subnets, Internet & NAT Gateways, route tables, and security groups.
+- ✔️ Hands-on with containerization and orchestration using Docker, Kubernetes, and Amazon EKS.
+- ✔️ Comfortable building CI/CD pipelines with Jenkins and GitHub, including build automation, deployment validation, and static code analysis with SonarQube.
+- ✔️ Practiced in monitoring and observability using AWS CloudWatch, Datadog, Prometheus, and Grafana.
+- ✔️ Effective at troubleshooting deployments via Jenkins console output, Linux log analysis, and `kubectl logs` / `kubectl describe`.
 
-💬 *Ask Me About:* AWS, Terraform, Docker, Kubernetes, CI/CD, Cloud Networking, and Infrastructure as Code.
-📫 *Reach Me At:* [vedantpwagh@gmail.com](mailto:vedantpwagh@gmail.com) | 📱 +91 8208601936
+💬 Ask Me About: AWS, Terraform, Docker, Kubernetes, CI/CD, Cloud Networking, and Infrastructure as Code.
+📫 Reach Me At: [vedantpwagh@gmail.com](mailto:vedantpwagh@gmail.com) | 📱 +91 8208601936
 
-⚡ *Fun fact:* I started out in Electrical Engineering — now I spend my time wiring up cloud infrastructure instead of circuits.
+⚡ Fun fact: I started out in Electrical Engineering — now I spend my time wiring up cloud infrastructure instead of circuits.
 
 ---
 
