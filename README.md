@@ -70,7 +70,7 @@
 ## 💼 Experience
 
 **DevOps Engineer Intern — Hisan Labs Private Limited, Pune**
-*February 2026 – Present*
+*March 2026 – Present*
 
 * Provision and manage AWS infrastructure using **Terraform**, including EC2, VPC, IAM, S3, RDS, Route 53, ALB, Auto Scaling, and CloudWatch.
 * Work with **AWS networking**, including public/private subnets, NAT Gateway, Internet Gateway, route tables, and security groups.
