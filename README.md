@@ -11,7 +11,7 @@
 
 </div>
 
-☁️ An *Aspiring Cloud & DevOps Engineer* with hands-on internship experience designing and automating scalable AWS infrastructure.
+☁️ An * Cloud & DevOps Engineer* with hands-on internship experience designing and automating scalable AWS infrastructure.
 🔭 Currently interning as a *DevOps Engineer at Hisan Labs Private Limited*, building production-grade solutions with Terraform, Docker, Kubernetes (EKS), Jenkins, and CI/CD pipelines.
 
 ### 🚀 What Defines Me as a DevOps Engineer
