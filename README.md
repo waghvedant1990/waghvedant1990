@@ -87,7 +87,7 @@
 | Project                                      | Description                                                                                                                                                        | Technologies                                                               |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 🔹 **Medical ERP — 3-Tier Cloud Deployment** | Deployed a containerized 3-tier medical ERP application using AWS, Terraform, Docker, and Kubernetes with load balancing, autoscaling, HTTPS, and rolling updates. | Terraform, Docker, Kubernetes, EKS, EC2, VPC, ALB, ACM, ASG, MongoDB Atlas |
-| 🔹 **Static Website Hosting**                | Hosted a static website using Amazon S3 and CloudFront with a custom domain, HTTPS, and DNS configuration.                                                         | S3, CloudFront, Route 53, ACM, Terraform                                   |
+| 🔹 **Flight Reservation System — End-to-End DevOps Implementation**                | Implemented an end-to-end DevOps workflow for a flight reservation application using containerization, Kubernetes deployment, Jenkins CI/CD, and Terraform-based AWS infrastructure                                                         | AWS, EC2, EKS, IAM, S3, CloudWatch, Jenkins, Docker, Kubernetes, Terraform, Linux, Git                                   |
 
 ---
 
