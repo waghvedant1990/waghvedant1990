@@ -12,7 +12,7 @@
 
 ☁️ **Cloud & DevOps Engineer** with hands-on experience in AWS infrastructure, Terraform, Docker, Kubernetes, Jenkins, and CI/CD.
 
-🔭 Currently working as a **DevOps Engineer Intern at Hisan Labs Private Limited**, gaining hands-on experience with AWS, Terraform, Docker, Kubernetes (EKS), Jenkins, monitoring, and cloud infrastructure.
+🔭 Currently working as a **DevOps Engineer at Hisan Labs Private Limited**, hands-on experience with AWS, Terraform, Docker, Kubernetes (EKS), Jenkins, monitoring, and cloud infrastructure.
 
 ---
 
@@ -69,8 +69,8 @@
 
 ## 💼 Experience
 
-**DevOps Engineer Intern — Hisan Labs Private Limited, Pune**
-*April 2026 – Present*
+**DevOps Engineer — Hisan Labs Private Limited, Pune**
+*November 2024 – Present*
 
 * Provision and manage AWS infrastructure using **Terraform**, including EC2, VPC, IAM, S3, RDS, Route 53, ALB, Auto Scaling, and CloudWatch.
 * Work with **AWS networking**, including public/private subnets, NAT Gateway, Internet Gateway, route tables, and security groups.
@@ -87,7 +87,7 @@
 | Project                                      | Description                                                                                                                                                        | Technologies                                                               |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 🔹 **Medical ERP — 3-Tier Cloud Deployment** | Deployed a containerized 3-tier medical ERP application using AWS, Terraform, Docker, and Kubernetes with load balancing, autoscaling, HTTPS, and rolling updates. | Terraform, Docker, Kubernetes, EKS, EC2, VPC, ALB, ACM, ASG, MongoDB Atlas |
-| 🔹 **Flight Reservation System — End-to-End DevOps Implementation**                | Implemented an end-to-end DevOps workflow for a flight reservation application using containerization, Kubernetes deployment, Jenkins CI/CD, and Terraform-based AWS infrastructure                                                         | AWS, EC2, EKS, IAM, S3, CloudWatch, Jenkins, Docker, Kubernetes, Terraform, Linux, Git                                   |
+| 🔹 **E-Commarce Application — End-to-End DevOps Implementation**                | Implemented an end-to-end DevOps workflow for a flight reservation application using containerization, Kubernetes deployment, Jenkins CI/CD, and Terraform-based AWS infrastructure                                                         | AWS, EC2, EKS, IAM, S3, CloudWatch, Jenkins, Docker, Kubernetes, Terraform, Linux, Git                                   |
 
 ---
 
